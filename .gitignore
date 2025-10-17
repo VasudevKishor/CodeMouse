@@ -1,1 +1,6 @@
 .vercel
+.env
+venv/
+__pycache__/
+client/node_modules
+client/.next
